@@ -1,5 +1,4 @@
 # Part 1 Experiment and metrics design
-*[3 points]*
 
 # Context
 
